@@ -1,5 +1,4 @@
 # PubMed-and-searching-for-the-most-cited-article-by-keyword
-![test](/img/abstract.png)
 
 ## About this project
 This Python code is designed to extract data from `PubMed`, a popular online database for scientific articles, and search for the most cited article based on a given keyword. The code uses the requests library to send HTTP requests and retrieve HTML content from `PubMed`, and the BeautifulSoup library to parse the HTML content and extract relevant information.
